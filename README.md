@@ -6,8 +6,7 @@ Frontend Developer
 
 I'm an enthusiastic Frontend Web developer from India who has been building side projects for quite some time now. You can check out all my projects at [github.com/sanchitBarjibhe](https://github.com/sanchitBarjibhe) to learn more about what I do!
 
-* 🚀  I'm currently building my open-source project, [FrontendPro](https://www.frontendpro.dev)
-* 🧠  I'm learning NextJs
+* 🧠  I'm learning React Redux
 * ⚡  I love to build side projects.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [portfolio-sanchitbarjibhe.vercel.app](https://portfolio-sanchitbarjibhe.vercel.app/)
