@@ -8,6 +8,7 @@ I'm an enthusiastic Frontend Web developer from India who has been building side
 
 * 🧠  I'm learning React Redux
 * ⚡  I love to build side projects.
+* 🧑🏼‍💻  Currenlty, working on NEXTHub
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [portfolio-sanchitbarjibhe.vercel.app](https://portfolio-sanchitbarjibhe.vercel.app/)
 * ✉️  You can contact me at [sanchitbarjibhe98@gmail.com](mailto:sanchitbarjibhe98@gmail.com)
