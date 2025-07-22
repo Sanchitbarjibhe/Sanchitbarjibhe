@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [nextHub](https://portfolio-sanchitbarjibhe.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sanchitbarjibhe.vercel.app/](https://portfolio-sanchitbarjibhe.vercel.app/)
-
 - 💬 Ask me about **react,frontend**
 
 <h3 align="left">Connect with me:</h3>
